@@ -1,6 +1,6 @@
 # fantasy-football-assistant
 A data-driven fantasy football assistant that helps managers make smarter start-sit decisions via the week's fantasy point projections.
-This repository is for U-M SIADS 496 — Milestone II. 
+This repository is for U-M SIADS 696 — Milestone II. 
 
 ## 👥 Team Members
 The team for this project consists of [Cedric Lambert](https://github.com/cedlamb-122), [Austin Miller](https://github.com/milleau98), and [Ryan Pierce](https://github.com/ryanapierce).
