@@ -6,7 +6,7 @@ This repository is for U-M SIADS 696 — Milestone II.
 The team for this project consists of [Cedric Lambert](https://github.com/cedlamb-122), [Austin Miller](https://github.com/milleau98), and [Ryan Pierce](https://github.com/ryanapierce).
 
 ## 🎯 Project Goals
-Ingest multi-source NFL data (historical stats, depth charts, ADP).
+Ingest multi-source NFL data (primarily historical stats).
 Model player projections and uncertainty.
 Explain recommendations (feature importances, scenario tips).
 
