@@ -31,6 +31,7 @@ Uncertainty: Residual-based intervals (Milestone 3: quantile/NGBoost)
 - [Main Dataset](dataset_generators/init_1_lag_dataset_generator.ipynb)
 - [MinMaxScaler 5 Fold Dataset Generator](dataset_generators/kfolds_dataset_generator.ipynb)
 - [PCA 5 Fold Dataset Generator](dataset_generators/pca_dataset_generator.ipynb)
+  
 #### Model Generator Notebooks
 - [MLP Regressor Model](model_generators/mlp/mlp_model_generator_pytorch.ipynb)
 - [Linear Regression Model](model_generators/lr/lr_model_generator.ipynb)
@@ -46,6 +47,7 @@ Uncertainty: Residual-based intervals (Milestone 3: quantile/NGBoost)
 - [PCA Analysis](model_analysis/pca_analysis.ipynb)
 - [MLP PCA Model Visuals](model_analysis/mlp_pca_model_visuals.ipynb)
 - [XGBoost PCA Model Visuals](model_analysis/xgboost_pca_model_visuals.ipynb)
+- [K-Means Analysis](model_analysis/k_means_analysis.ipynb)
 
 ## 📜 License
 MIT — see LICENSE.
