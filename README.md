@@ -19,6 +19,9 @@ Baseline projection models (e.g., regressor)
 ## 🗂️ Data Source
 Source: [nfl_data_py](https://github.com/nflverse/nfl_data_py)
 
+## 🛰️ Project Data Location
+[Main Dataset](dataset_generators/datasets/final_1_lag_ffa_dataset.csv)
+
 ## 🧠 Modeling (Milestone 2 Baselines)
 Targets: Fantasy points under league scoring
 Features (initial): prior-year stats, usage (attempts, targets), team pace/efficiency proxies, depth chart role
