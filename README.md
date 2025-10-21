@@ -34,12 +34,18 @@ Uncertainty: Residual-based intervals (Milestone 3: quantile/NGBoost)
 #### Model Generator Notebooks
 - [MLP Regressor Model](model_generators/mlp/mlp_model_generator_pytorch.ipynb)
 - [Linear Regression Model](model_generators/lr/lr_model_generator.ipynb)
+- [XGBoost Model](model_generators/xgboost/xgboost_model_generator.ipynb)
+
 #### Model Analysis Notebooks
 - [MLP Data Analysis](model_analysis/mlp_data_analysis.ipynb)
 - [MLP Ablation Analysis](model_analysis/mlp_model_ablation_analysis_features.ipynb)
 - [MLP Model Analysis](model_analysis/mlp_model_analysis.ipynb)
 - [MLP Feature Analysis](model_analysis/mlp_model_permutation_importance.ipynb)
 - [MLP SHAP Analysis (Unused in report)](model_analysis/mlp_model_shap.ipynb)
+- [XGBoost Model Analysis](model_analysis/xgboost_analysis.ipynb)
+- [PCA Analysis](model_analysis/pca_analysis.ipynb)
+- [MLP PCA Model Visuals](model_analysis/mlp_pca_model_visuals.ipynb)
+- [XGBoost PCA Model Visuals](model_analysis/xgboost_pca_model_visuals.ipynb)
 
 ## 📜 License
 MIT — see LICENSE.
