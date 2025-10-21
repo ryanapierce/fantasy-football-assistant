@@ -55,6 +55,3 @@ Uncertainty: Residual-based intervals (Milestone 3: quantile/NGBoost)
 ## 📜 License
 MIT — see [LICENSE](LICENSE).
 
-## 🙏 Acknowledgments
-Thanks to open-source NFL analytics communities and academic resources used in this project. Please see notebook citations for specific datasets and papers.
-
